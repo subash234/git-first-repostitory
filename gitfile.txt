@@ -1,1 +1,4 @@
 welcome to the git tutorial.
+git is version control system used to track our files in our normal folder
+to make our normal folder to git repoistory we have to add the .git file to our folder using  the git command
+git init.
